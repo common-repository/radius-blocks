@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Wrapper",
+  "name": "rtrb/wrapper",
+  "category": "rtrb-radius-blocks",
+  "description": "Blocks are displayed in a wrapper",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "editorScript": "rtrb-blocks-editor-script"
+}

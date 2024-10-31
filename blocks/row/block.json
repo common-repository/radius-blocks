@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Row",
+  "name": "rtrb/row",
+  "category": "rtrb-radius-blocks",
+  "description": "Add row and column layout and displays content in multiple columns",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "editorScript": "rtrb-blocks-editor-script"
+}

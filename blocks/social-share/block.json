@@ -1,0 +1,10 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"title": "Social Share",
+	"name": "rtrb/social-share",
+	"category": "rtrb-radius-blocks",
+	"description": "Share your posts & pages in social network platforms using this block",
+	"apiVersion": 2,
+	"textdomain": "radius-blocks",
+	"editorScript": "rtrb-blocks-editor-script"
+}

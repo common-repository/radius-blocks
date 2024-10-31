@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Post List",
+  "name": "rtrb/post-list",
+  "category": "rtrb-radius-blocks",
+  "description": "Display your posts in a List layout using this block",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "supports": {
+	"anchor": true
+  },
+  "editorScript": "rtrb-blocks-editor-script"
+}

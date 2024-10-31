@@ -1,0 +1,10 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"title": "Search",
+	"name": "rtrb/search",
+	"category": "rtrb-header-footer",
+	"description": "Display search block in the header will help visitors find your content",
+	"apiVersion": 2,
+	"textdomain": "radius-blocks",
+	"editorScript": "rtrb-blocks-editor-script"
+}

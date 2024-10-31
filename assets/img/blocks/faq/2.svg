@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 145 110" style="enable-background:new 0 0 145 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EFEFEF;}
+	.st1{opacity:0.85;}
+	.st2{fill:#C5C8D3;}
+	.st3{fill:none;stroke:#9FA1AA;stroke-width:0.75;stroke-miterlimit:10;}
+	.st4{fill:#9FA1AA;}
+</style>
+<g>
+	<g>
+		<rect class="st0" width="145" height="110"/>
+	</g>
+	<g>
+		<g>
+			<g class="st1">
+				<path class="st2" d="M110,54.4H21c-0.7,0-1.2-0.5-1.2-1.2l0,0c0-0.7,0.5-1.2,1.2-1.2h89c0.7,0,1.2,0.5,1.2,1.2l0,0
+					C111.2,53.8,110.7,54.4,110,54.4z"/>
+			</g>
+			<g class="st1">
+				<path class="st2" d="M118,45.1H21c-0.7,0-1.2-0.5-1.2-1.2l0,0c0-0.7,0.5-1.2,1.2-1.2h97c0.7,0,1.2,0.5,1.2,1.2l0,0
+					C119.2,44.6,118.7,45.1,118,45.1z"/>
+			</g>
+			<g class="st1">
+				<path class="st2" d="M85.8,63.2H21c-0.7,0-1.2-0.5-1.2-1.2l0,0c0-0.7,0.5-1.2,1.2-1.2h64.8c0.7,0,1.2,0.5,1.2,1.2l0,0
+					C87,62.7,86.5,63.2,85.8,63.2z"/>
+			</g>
+		</g>
+		<g>
+			<rect x="15.7" y="20.2" class="st2" width="113.6" height="14"/>
+			<circle class="st3" cx="23.9" cy="27.2" r="4.1"/>
+			<g>
+				<path class="st4" d="M117.4,28.7H33.6c-0.8,0-1.5-0.7-1.5-1.5l0,0c0-0.8,0.7-1.5,1.5-1.5h83.9c0.8,0,1.5,0.7,1.5,1.5l0,0
+					C118.9,28,118.3,28.7,117.4,28.7z"/>
+			</g>
+			<g>
+				<path class="st4" d="M24.3,26.8H26v0.7h-1.7h-0.8h-1.7v-0.7h1.7H24.3z"/>
+			</g>
+		</g>
+		<g>
+			<rect x="15.7" y="75.8" class="st2" width="113.6" height="14"/>
+			<circle class="st3" cx="23.9" cy="82.8" r="4.1"/>
+			<g>
+				<path class="st4" d="M117.4,84.3H33.6c-0.8,0-1.5-0.7-1.5-1.5l0,0c0-0.8,0.7-1.5,1.5-1.5h83.9c0.8,0,1.5,0.7,1.5,1.5l0,0
+					C118.9,83.6,118.3,84.3,117.4,84.3z"/>
+			</g>
+			<g>
+				<g>
+					<path class="st4" d="M24.3,82.4H26v0.7h-1.7V85h-0.8v-1.9h-1.7v-0.7h1.7v-1.8h0.8V82.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

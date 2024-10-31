@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Container",
+  "name": "rtrb/container",
+  "category": "rtrb-radius-blocks",
+  "description": "This Block is Flex Properties Based Container",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "editorScript": "rtrb-blocks-editor-script"
+}

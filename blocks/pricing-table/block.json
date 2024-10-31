@@ -1,0 +1,13 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"title": "Pricing Table",
+	"name": "rtrb/pricing-table",
+	"category": "rtrb-radius-blocks",
+	"description": "Display the different product pricing and perfect styling for your business",
+	"apiVersion": 2,
+	"textdomain": "radius-blocks",
+	"supports": {
+		"anchor": true
+	},
+	"editorScript": "rtrb-blocks-editor-script"
+}

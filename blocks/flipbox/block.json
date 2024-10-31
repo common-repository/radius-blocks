@@ -1,0 +1,13 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"title": "Flipbox",
+	"name": "rtrb/flipbox",
+	"category": "rtrb-radius-blocks",
+	"description": "Display different types of content flipping side on hover using a block.",
+	"apiVersion": 2,
+	"textdomain": "radius-blocks",
+	"supports": {
+		"anchor": true
+	},
+	"editorScript": "rtrb-blocks-editor-script"
+}

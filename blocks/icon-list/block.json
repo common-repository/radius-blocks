@@ -1,0 +1,13 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"title": "Icon List",
+	"name": "rtrb/icon-list",
+	"category": "rtrb-radius-blocks",
+	"description": "Create attractive horizontal or vertical lists with icons",
+	"apiVersion": 2,
+	"textdomain": "radius-blocks",
+	"supports": {
+		"anchor": true
+	},
+	"editorScript": "rtrb-blocks-editor-script"
+}

@@ -1,0 +1,13 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"title": "FAQ",
+	"name": "rtrb/faq",
+	"category": "rtrb-radius-blocks",
+	"description": "Display questions and answer with faq block",
+	"apiVersion": 2,
+	"textdomain": "radius-blocks",
+	"supports": {
+		"anchor": true
+	},
+	"editorScript": "rtrb-blocks-editor-script"
+}

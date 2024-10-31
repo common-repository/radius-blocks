@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "News Ticker",
+  "name": "rtrb/news-ticker",
+  "category": "rtrb-radius-blocks",
+  "description": "Display the latest news and posts using this block",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "supports": {
+	"anchor": true
+  },
+  "editorScript": "rtrb-blocks-editor-script"
+}

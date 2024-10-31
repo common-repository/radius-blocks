@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Advanced Video",
+  "name": "rtrb/advanced-video",
+  "category": "rtrb-radius-blocks",
+  "description": "Add YouTube, Vimeo URL, or locally hosted video to make a video",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "editorScript": "rtrb-blocks-editor-script"
+}

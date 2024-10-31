@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Advanced Navigation",
+  "name": "rtrb/advanced-navigation",
+  "category": "rtrb-header-footer",
+  "description": "Add navigation in the header, footer & pages of your website with organized styling",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "editorScript": "rtrb-blocks-editor-script"
+}

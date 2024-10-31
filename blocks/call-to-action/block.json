@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Call To Action",
+  "name": "rtrb/call-to-action",
+  "category": "rtrb-radius-blocks",
+  "description": "Create an interactive CTA block in your website to get the visitors' attention",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "supports": {
+    "anchor": true
+  },
+  "editorScript": "rtrb-blocks-editor-script"
+}

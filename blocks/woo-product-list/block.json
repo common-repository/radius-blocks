@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Woo Product List",
+  "name": "rtrb/woo-product-list",
+  "category": "rtrb-radius-blocks",
+  "description": "Display your WooCommerce product in a list layout using this block",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "supports": {
+	"anchor": true
+  },
+  "editorScript": "rtrb-blocks-editor-script"
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Copyright Text",
+  "name": "rtrb/copyright",
+  "category": "rtrb-header-footer",
+  "description": "Display copyright text with dynamic year in the footer",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "editorScript": "rtrb-blocks-editor-script"
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"title": "Progress Bar",
+	"name": "rtrb/progress-bar",
+	"category": "rtrb-radius-blocks",
+	"description": "Insert a visual indicator that displays what percentage of a process has been done",
+	"apiVersion": 2,
+	"textdomain": "radius-blocks",
+	"editorScript": "rtrb-blocks-editor-script"
+}

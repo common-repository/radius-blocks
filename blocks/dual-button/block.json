@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Dual Button",
+  "name": "rtrb/dual-button",
+  "category": "rtrb-radius-blocks",
+  "description": "Create different type dual-button with dual-button block",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "supports": {
+    "anchor": true
+  },
+  "editorScript": "rtrb-blocks-editor-script"
+}

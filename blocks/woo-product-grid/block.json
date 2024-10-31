@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Woo Product Grid",
+  "name": "rtrb/woo-product-grid",
+  "category": "rtrb-radius-blocks",
+  "description": "Display your WooCommerce product in a grid layout using this block",
+  "apiVersion": 2,
+  "textdomain": "radius-blocks",
+  "supports": {
+	"anchor": true
+  },
+  "editorScript": "rtrb-blocks-editor-script"
+}
